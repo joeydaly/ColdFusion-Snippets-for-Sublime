@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<event-arg name="${1:name}" value="${2:value}"/>
+]]></content>
+	<tabTrigger>m2evn</tabTrigger>
+</snippet>

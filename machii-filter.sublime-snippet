@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<filter name="${1:filterName}">
+	<parameter name="${2:name}" value="${3:value}" />
+</filter>
+]]></content>
+	<tabTrigger>m2filt</tabTrigger>
+</snippet>
