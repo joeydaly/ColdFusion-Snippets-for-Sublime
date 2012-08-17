@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<cfswitch expression="${1:Book}">
+	<cfcase value="${2:Title}">
+	</cfcase>
+	<cfdefaultcase>
+	</cfdefaultcase>
+</cfswitch>
+]]></content>
+	<tabTrigger>cfswitch</tabTrigger>	
+</snippet>
